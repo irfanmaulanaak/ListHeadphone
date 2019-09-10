@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ListHeadphone</string>
+    <string name="headphone_name">Headphone</string>
+    <string name="detail_headphone">Detail</string>
+    <string name="menu1">About Me</string>
+    <string name="menu2">Exit</string>
+    <string name="menu3">Home</string>
 </resources>
